@@ -1,0 +1,61 @@
+{
+  "title": "🧙🏻‍♂️Qual casa de Hogwarts você pertence?🦁 🦡 🐍 🦅",
+  "questions": [
+    {
+      "id": 1,
+      "question": "O que é mais importante para você?",
+      "options": [
+        {"id": 1, "name": "Coragem e bravura", "alias": "Grifinoria"},
+        {"id": 2, "name": "Lealdade e amizade", "alias": "Lufa-Lufa"},
+        {"id": 3, "name": "Ambição e astúcia", "alias": "Sonserina"},
+        {"id": 4, "name": "Inteligência e criatividade", "alias": "Corvinal"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual seria sua matéria favorita em Hogwarts?",
+      "options": [
+        {"id": 1, "name": "Defesa Contra as Artes das Trevas", "alias": "Grifinoria"},
+        {"id": 2, "name": "Herbologia", "alias": "Lufa-Lufa"},
+        {"id": 3, "name": "Poções", "alias": "Sonserina"},
+        {"id": 4, "name": "Feitiços", "alias": "Corvinal"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Se você encontrasse um objeto mágico poderoso, o que faria?",
+      "options": [
+        {"id": 1, "name": "Usaria para proteger os outros", "alias": "Grifinoria"},
+        {"id": 2, "name": "Guardaria com segurança", "alias": "Lufa-Lufa"},
+        {"id": 3, "name": "Aproveitaria para se fortalecer", "alias": "Sonserina"},
+        {"id": 4, "name": "Estudaria para entender como funciona", "alias": "Corvinal"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual dessas criaturas mágicas você gostaria de ter como companheira?",
+      "options": [
+        {"id": 1, "name": "Hipogrifo", "alias": "Grifinoria"},
+        {"id": 2, "name": "Texugo", "alias": "Lufa-Lufa"},
+        {"id": 3, "name": "Basilisco", "alias": "Sonserina"},
+        {"id": 4, "name": "Coruja", "alias": "Corvinal"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "O que te motiva mais?",
+      "options": [
+        {"id": 1, "name": "Aventura e desafios", "alias": "Grifinoria"},
+        {"id": 2, "name": "Fazer o bem e ajudar os outros", "alias": "Lufa-Lufa"},
+        {"id": 3, "name": "Conquistar meus objetivos a qualquer custo", "alias": "Sonserina"},
+        {"id": 4, "name": "Aprender e buscar conhecimento", "alias": "Corvinal"}
+      ]
+    }
+  ],
+  "results": {
+    "Grifinoria": "🦁 Grifinoria!!! Você é corajoso e leal, sempre pronto para defender seus amigos e enfrentar desafios!",
+    "Lufa-Lufa": "🦡 Lufa-Lufa!!! Você é gentil e trabalhador, valoriza a amizade e a justiça acima de tudo!",
+    "Sonserina": "🐍 Sonserina!!! Você é astuto e ambicioso, sabe como alcançar seus objetivos de forma estratégica!",
+    "Corvinal": "🦅 Corvinal!!! Você é curioso e criativo, sempre buscando novos conhecimentos e ideias!"
+  }
+}
